@@ -192,4 +192,16 @@
             "required": false,
             "value": "true"
         },
-        "
+        "COFFEEHOUSE_API_KEY": {
+            "description": "Pass This Step! - Bu Bölümü Geçin!",
+            "required": false,
+            "value": "true"
+        }
+    },
+    "addons": [{
+      "plan": "heroku-postgresql"
+    }],
+    "buildpacks": [{
+      "url": "heroku-community/apt"
+      }]
+  }
