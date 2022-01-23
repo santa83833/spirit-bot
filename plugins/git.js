@@ -10,20 +10,19 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
     var skl = await axios.get("https://i.imgur.com/aO8uCtQ.jpg", { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*spirit  bot created by Spirit*
-*Creator number : wa.me/16052772640?text=Hi%20spirit%20%20*
+ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/16052772640
 
-*spirit bot group* : https://chat.whatsapp.com/F3adhxvYpd3KzVptzDxhC4
+sᴘɪʀɪᴛ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/F3adhxvYpd3KzVptzDxhC4
 
-*Githublink (Setup)* :    https://github.com/SPlRlT-YT/spirit-bot
+ɢɪᴛʜᴜʙ ʟɪɴᴋ:    https://github.com/SPlRlT-YT/spirit-bot
 
-*Audio commads* :   https://github.com/SPlRlT-YT/spirit-bot/tree/master/uploads
+ᴀᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/SPlRlT-YT/spirit-bot/tree/master/uploads
 
-*Sticker commads* : https://github.com/SPlRlT-YT/spirit-bot/tree/master/sticker
+sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/SPlRlT-YT/spirit-bot/tree/master/sticker
 
-*My channel* : https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA 
+ᴄʜᴀɴɴᴇɪᴄʜ : https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA 
 
-*For More Updates Subscribe The Channel ☝*
+💝sᴘɪʀɪʀ ʙᴏᴛ💝
 `}) 
 
 }));
-
