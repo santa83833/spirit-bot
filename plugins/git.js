@@ -22,7 +22,7 @@ sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/SPlRlT-YT/spirit-bot
 
 ᴄʜᴀɴɴᴇɪᴄʜ : https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA 
 
-💝sᴘɪʀɪʀ ʙᴏᴛ💝
+💝sᴘɪʀɪᴛ ʙᴏᴛ💝
 `}) 
 
 }));
