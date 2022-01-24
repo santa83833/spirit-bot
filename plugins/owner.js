@@ -1,7 +1,7 @@
 /* Copyright (C) 2021 HUSNI NIJIN
 Licensed under the  GPL-3.0 License;
 Mwonu Husniserinde credits kalayalle
-Maalutty - Nijin-husni
+spirit-bot - SPlRlT-YT
 */
 const Maalutty = require('../events');
 const {MessageType, GroupSettingChange, Mimetype, MessageOptions} = require('@adiwajshing/baileys');
@@ -29,8 +29,8 @@ var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '
       ]
       
       const buttonMessage = {
-          contentText: '╭───𒆜𝙊𝙒𝙉𝙀𝙍𝙎𒆜\n│🥂 ꪶ͢Aʙᴜꫂ⁩\n│\n│🥂 ꪶ͢ᴊᴀsɪʟꫂ⁩\n╰───────────────𒈒',
-          footerText: '©ꪶ͢Aʙᴜ Sᴇʀꫂ',
+          contentText: '╭───𒆜𝙊𝙒𝙉𝙀𝙍𝙎𒆜\n│🥂 ꪶ͢Sᴘɪʀɪᴛꫂ⁩\n│\n│🥂 ꪶ͢ᴊᴀsɪʟꫂ⁩\n╰───────────────𒈒',
+          footerText: '©ꪶ͢Sᴘɪʀɪᴛ Sᴇʀꫂ',
           buttons: buttons,
           headerType: 1
       }
